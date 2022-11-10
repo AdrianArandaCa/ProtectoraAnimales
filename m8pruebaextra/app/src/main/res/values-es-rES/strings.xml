@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">m8pruebaextra</string>
+    <string name="gossos">Perros</string>
+    <string name="gats">Gatos</string>
+    <string name="events">Evento</string>
+    <string name="nomEvent">Evento</string>
+    <string name="localitat">Localidad</string>
+    <string name="dataInici">Fecha inicio</string>
+    <string name="dataFi">Fecha final</string>
+    <string name="enviar">Enviar</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mes</string>
+    <string name="any">Año</string>
+    <string name="login">Entrar</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="info">Nuestra historia  Todo empezó con nuestro amor por nuestra familia y nuestras mascotas. Y si una cosa nos ha enseñado nuestra gran familia, es que los miembros de la familia siempre se cuidan unos a otros. Creemos que nuestras mascotas son una parte tan importante de la familia como cualquier otra persona y que merecen el mismo cuidado.  Los requisitos para hacer un correcto seguimiento de las necesidades diarias y la atención médica de tus mascotas pueden convertirse en un desafío. Y nosotros sabemos de esto, tenemos 11.  Debido a ello, decidimos que era hora de facilitarnos las cosas a nosotros y a nuestros peludos compañeros, y creamos 11pets .  Queríamos crear la mejor aplicación de cuidado de mascotas que existiera, por lo que no solo analizamos nuestra experiencia, sino que escuchamos la experiencia combinada, los consejos, el conocimiento y los comentarios de entrenadores calificados, veterinarios profesionales, y otros amantes de las mascotas, con el fin de crear funcionalidades que se dirigieran a los dueños de mascotas y sus necesidades de cuidado de mascotas. Después de 500.000 descargas y más de 100 adaptaciones a la funcionalidad, nos complace decir que hemos creado la mejor aplicación móvil y fácil de usar, para el cuidado de mascotas.</string>
+    <string name="prote">11Pets</string>
+    <string name="mascotes">Mascotas</string>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fevent">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <EditText
+        android:id="@+id/etEvent"
+        android:layout_width="163dp"
+        android:inputType="text"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="129dp"
+        android:layout_marginBottom="507dp"
+        android:hint="@string/nomEvent" />
+
+    <EditText
+        android:id="@+id/etLocalitat"
+        android:layout_width="153dp"
+        android:inputType="text"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="136dp"
+        android:layout_marginBottom="437dp"
+        android:hint="@string/localitat" />
+
+    <EditText
+        android:id="@+id/dataIniciDia"
+        android:layout_width="58dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="235dp"
+        android:layout_marginBottom="361dp"
+        android:hint="@string/dia"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/dataIniciMes"
+        android:layout_width="49dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="177dp"
+        android:layout_marginBottom="362dp"
+        android:hint="@string/mes"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/dataIniciAny"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="109dp"
+        android:layout_marginBottom="361dp"
+        android:hint="@string/any"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/dataFiDia"
+        android:layout_width="49dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="236dp"
+        android:layout_marginBottom="281dp"
+        android:hint="@string/dia"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/dataFiMes"
+        android:layout_width="38dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="184dp"
+        android:layout_marginBottom="281dp"
+        android:hint="@string/mes"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/dataFiAny"
+        android:layout_width="53dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="114dp"
+        android:layout_marginBottom="281dp"
+        android:hint="@string/any"
+        android:inputType="number" />
+
+
+    <Button
+        android:id="@+id/btmEnviar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="171dp"
+        android:layout_marginBottom="184dp"
+        android:text="@string/enviar" />
+
+</RelativeLayout>

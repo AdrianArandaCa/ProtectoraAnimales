@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/mascotes"
+            android:title="@string/mascotes"
+            >
+
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/fgossos"
+                        android:title="@string/gossos"
+                        />
+                    <item
+                        android:id="@+id/fgats"
+                        android:title="@string/gats"
+                        />
+                </group>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/fevent"
+            android:title="@string/events"
+            android:icon="@drawable/ic_event_foreground"
+            />
+    </group>
+</menu>

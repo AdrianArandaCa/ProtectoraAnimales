@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">m8pruebaextra</string>
+    <string name="gossos">Dogs</string>
+    <string name="gats">Cats</string>
+    <string name="events">Event</string>
+    <string name="nomEvent">Event</string>
+    <string name="password">Password</string>
+    <string name="user">User</string>
+    <string name="register">Register</string>
+    <string name="login">Start</string>
+    <string name="any">Year</string>
+    <string name="mes">Month</string>
+    <string name="dia">Day</string>
+    <string name="enviar">Send</string>
+    <string name="dataFi">Final date</string>
+    <string name="dataInici">Initial date</string>
+    <string name="localitat">Location</string>
+    <string name="info">Our story It all started with our love for our family and our pets. And if our big family has taught us one thing, it\'s that family members always look out for each other. We believe that our pets are as much a part of the family as anyone else and that they deserve the same care. The requirements to properly keep track of your pets\' daily needs and medical care can become challenging. And we know about this, we\'re 11. Because of that, we decided it was time to make things easy for us and our furry companions, and we created 11pets . We wanted to create the best pet care app out there, so we didn\'t just look at our experience, we listened to the combined experience, advice, knowledge, and feedback of qualified trainers, professional vets, and other pet lovers, in order to create features that cater to pet owners and their pet care needs. After 500,000 downloads and over 100 feature adaptations, we\'re happy to say we\'ve created the best, easy-to-use mobile app for pet care.</string>
+    <string name="prote">11Pets</string>
+    <string name="mascotes">Pets</string>
+</resources>
